@@ -1,1 +1,1 @@
-Simple Syntax of java Program
+Hey there! Welcome to the Java Core Topics Program repository. This project is all about helping you get a solid grasp on the fundamental concepts of Java programming. Whether you’re just starting out or looking to brush up on your skills, you’ll find a comprehensive guide to core Java topics right here.
